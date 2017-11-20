@@ -1,3 +1,4 @@
 
-this is new git \\n
+this is new git 
+
 github and gitee push
